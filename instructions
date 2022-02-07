@@ -46,23 +46,36 @@ Get Contents of URL (POST)
 http:/ROKU IP:8060/keypress/select
 Get Contents of URL (POST)
 Wait: 2 Seconds
-http:/ROKU IP:8060/keypress/left
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+http:/ROKU IP:8060/keypress/down
 Get Contents of URL (POST)
-http:/ROKU IP:8060/keypress/left
+Wait: 1 Second
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/select
+Get Contents of URL (POST)
+Wait: 9 Seconds
+http://ROKU IP:8060/keypress/select
 Get Contents of URL (POST)
