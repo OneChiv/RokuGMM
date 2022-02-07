@@ -1,0 +1,68 @@
+For any interested, here are the actual instructions of the shortcut
+
+Text: Whats the Roku's IP Address?
+Set Text to Variable ROKU IP
+http://ROKU IP:8060/launch/837
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/up
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/right
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/select
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/select
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/select
+Get Contents of URL (POST)
+Wait: 2 Seconds
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/down
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/select
+Get Contents of URL (POST)
+Wait: 2 Seconds
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
+http:/ROKU IP:8060/keypress/left
+Get Contents of URL (POST)
